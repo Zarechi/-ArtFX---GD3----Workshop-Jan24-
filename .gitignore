@@ -1,3 +1,7 @@
+# Substance TEMP files
+_RAW/.autosave/*
+_RAW/Substance_graph.resources/*
+
 # Visual Studio user specific files
 .vs/
 .vsconfig
